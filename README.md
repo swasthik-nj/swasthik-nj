@@ -1,5 +1,5 @@
 
-<h2 align="left">Hi 👋! My name is Swasthik and I'm a passionate developer from India</h2>
+<h2 align="left">Hi 👋! My name is Swasthik and I'm a passionate developer from Mangalore</h2>
 
 ###
 
