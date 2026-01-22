@@ -40,7 +40,7 @@ I am a passionate **Full-Stack Developer** based in **Mangalore, India**, curren
   <tr>
     <td width="50%" valign="top">
       <h4>🔥 Coding Streak</h4>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=swasthik-nj&theme=tokyonight&hide_border=true" width="100%" />
+     <img src="https://streak-stats.demolab.com?user=swasthik-nj&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" width="100%" />
     </td>
     <td width="50%" valign="top">
       <h4>🛠️ Tech Arsenal</h4>
